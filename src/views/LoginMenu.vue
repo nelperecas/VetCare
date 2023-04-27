@@ -1,10 +1,9 @@
 <template>
 
-    <div>
-        <LoginComponent></LoginComponent>
-    </div>
+    <LoginComponent></LoginComponent>
     
 </template>
+
 
 <script>
     import LoginComponent from '../components/LoginComponent.vue';

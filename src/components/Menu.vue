@@ -20,6 +20,10 @@
     </div>
 </template>
 
+<style>
+    @import '../assets/css/style.css'
+</style>
+
 <script>
 export default {
     name: "MenuHeader",
